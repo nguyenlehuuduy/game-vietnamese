@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NhanvatNam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - robot
+  - human
+  - question
+  - bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Canvas
+    uniqueID: 730971049
+    locked: 0
+  - name: Nhanvat
+    uniqueID: 3068455281
+    locked: 0
+  - name: NhanVatNam
+    uniqueID: 3251528805
+    locked: 0
+  - name: NhanVatNu
+    uniqueID: 1113431003
+    locked: 0
+  - name: NhanvatBotNam
+    uniqueID: 1937373709
+    locked: 0
+  - name: NhanVatBotNu
+    uniqueID: 671272107
+    locked: 0
+  - name: tai
+    uniqueID: 2726250953
+    locked: 0
+  - name: image
+    uniqueID: 1471501247
+    locked: 0
+  - name: message
+    uniqueID: 1075548143
+    locked: 0
+  - name: question
+    uniqueID: 1633739013
+    locked: 0
+  - name: bg
+    uniqueID: 3853915965
+    locked: 0

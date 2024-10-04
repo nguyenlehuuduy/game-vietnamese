@@ -1,0 +1,76 @@
+{
+  "question": [
+    {
+      "questionId": 1,
+      "topicId": {
+        "idTopic": 1,
+        "idLevelSubject": 1,
+        "nameSubject": 1,
+        "idRound": 1
+      },
+      "type": {
+        "typeId": 1,
+        "typeName": "Trắc nghiệm"
+      },
+      "content": {
+        "des": "Từ nào đồng nghĩa với từ gọn gàng",
+        "imagePath": ""
+      },
+      "answer": "Ngăn nắp",
+      "options": [
+        "Ngăn nắp",
+        "Lộn xộn",
+        "Bừa bãi",
+        "Cẩu thả"
+      ]
+    },
+    {
+      "questionId": 1,
+      "topicId": {
+        "idTopic": 1,
+        "idLevelSubject": 1,
+        "nameSubject": 1,
+        "idRound": 1
+      },
+      "type": {
+        "typeId": 1,
+        "typeName": "Trắc nghiệm"
+      },
+      "content": {
+        "des": "6. Đà Nẵng có vẻ đẹp rất cuốn hút. Từ cuốn hút đồng nghĩa với từ nào?.",
+        "imagePath": ""
+      },
+      "answer": "Lôi cuốn",
+      "options": [
+        "Lôi cuốn",
+        "Tẻ nhạt",
+        "Bừa bãi",
+        "Cẩu thả"
+      ]
+    },
+    {
+      "questionId": 1,
+      "topicId": {
+        "idTopic": 1,
+        "idLevelSubject": 1,
+        "nameSubject": 1,
+        "idRound": 1
+      },
+      "type": {
+        "typeId": 1,
+        "typeName": "Trắc nghiệm"
+      },
+      "content": {
+        "des": "7. Thành phố này thật nhộn nhịp. Từ  nào đồng nghĩa với nhộn nhịp",
+        "imagePath": ""
+      },
+      "answer": "Thú vị",
+      "options": [
+        "Thú vị",
+        "Lộn xộn",
+        "Bừa bãi",
+        "Cẩu thả"
+      ]
+    }
+  ]
+}

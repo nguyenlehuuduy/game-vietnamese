@@ -1,0 +1,287 @@
+[33mcommit a561f7180a887e9f4192d97861ee41402b49d6a9[m[33m ([m[1;36mHEAD -> [m[1;32mron[m[33m, [m[1;31morigin/ron[m[33m)[m
+Author: TonThatRon <tonr84295@gmail.com>
+Date:   Thu Jan 11 00:46:20 2024 +0700
+
+    merge challange
+
+[33mcommit 2df030657ea533ebd11bd5d0a282afed6dcf36bd[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Dec 13 13:32:38 2023 +0700
+
+    add
+
+[33mcommit 472d1ca9dce1a70c858a537e217a96f87682e2a2[m
+Merge: f85c7ba ba41e22
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Dec 13 12:45:37 2023 +0700
+
+    add
+
+[33mcommit f85c7ba0cc41c05d4fd05247762142e577a6c8eb[m
+Merge: 336b488 e991402
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Dec 13 12:37:01 2023 +0700
+
+    fix conflix
+
+[33mcommit ba41e220a99fd8e220c62b611917c6602dd7ea9d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Dec 13 12:35:07 2023 +0700
+
+    add
+
+[33mcommit e99140226564889b959e3d0e3fe9bfcef8ecc20d[m
+Author: TonThatRon <tonr84295@gmail.com>
+Date:   Wed Dec 13 00:38:25 2023 +0700
+
+    fix prefab
+
+[33mcommit 5226b619b8606d0358735aaa2c8c1a87da2bde5c[m[33m ([m[1;31morigin/bao[m[33m)[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Tue Dec 12 21:29:32 2023 +0700
+
+    add aphat
+
+[33mcommit 336b488b042be032a967cc7bcee6291b6e4f3f8e[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Mon Dec 4 17:58:04 2023 +0700
+
+    add
+
+[33mcommit b54f3e443b43724c77e063e16cdef4c9597df913[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Thu Nov 30 22:04:19 2023 +0700
+
+    ADD
+
+[33mcommit e5380b7ac1670b298ed67e4fe248b1054b741e5d[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Thu Nov 30 15:42:14 2023 +0700
+
+    add
+
+[33mcommit ba4b985b12e85d1bed9eb6322925064ad9968ed0[m
+Author: TonThatRon <tonr84295@gmail.com>
+Date:   Thu Nov 30 14:32:22 2023 +0700
+
+    ron
+
+[33mcommit 752d4ea2ea9d064b8787e19b491b774e60d77248[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Thu Nov 30 12:27:36 2023 +0700
+
+    basic logic bot
+
+[33mcommit 53ba7ed08694df8ffeb17ae93b1b3849f148ab3f[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Thu Nov 30 12:08:02 2023 +0700
+
+    add
+
+[33mcommit 133dbcf6230d3aabc465937a520194cf3632e0ad[m
+Merge: 6c127a2 cce8b5a
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 29 22:01:30 2023 +0700
+
+    Merge branch 'dung' into bao
+
+[33mcommit 6c127a2145f989237022ff47477501109736e46f[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 29 21:27:01 2023 +0700
+
+    add file bot
+
+[33mcommit cce8b5abe9f21222e2d2800c30274177cc7e572f[m
+Author: Quocdung <dungttq.21it@vku.udn.vn>
+Date:   Wed Nov 29 21:25:16 2023 +0700
+
+    add bot part
+
+[33mcommit 464ce2cdb3e014a62d525bc7cbb4e08d64f7e968[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 29 21:12:58 2023 +0700
+
+    add
+
+[33mcommit 385c8701888380903608a7f8ba4b1de3ed404687[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 29 17:52:14 2023 +0700
+
+    add component
+
+[33mcommit e0cbc657ac1dd97723e703a90049ed33fd53a764[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 29 17:47:40 2023 +0700
+
+    add anima
+
+[33mcommit c277a06645b5412e4cf8df2cb00fc4aecc685ebf[m
+Merge: 88cbdfb f3b7a32
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 29 16:38:32 2023 +0700
+
+    add
+
+[33mcommit 86ab097e347bffbab4af5364fc99b675eeeb1fd0[m
+Author: Quocdung <dungttq.21it@vku.udn.vn>
+Date:   Tue Nov 28 20:40:21 2023 +0700
+
+    finish logic dung's challenge
+
+[33mcommit 0b8ff146e456a0fffee51df41f518b2b3f837040[m
+Merge: e8f3792 e6c1cde
+Author: Quocdung <dungttq.21it@vku.udn.vn>
+Date:   Tue Nov 28 20:38:48 2023 +0700
+
+    Merge branch 'main' of https://github.com/nguyenlehuuduy/Game_Vietnamese
+
+[33mcommit e6c1cdee9690cfb1083eaa215250facb1c63739c[m
+Merge: 258ebda 7f4e7f2
+Author: Nguyễn Lê Hữu Duy <79910782+nguyenlehuuduy@users.noreply.github.com>
+Date:   Tue Nov 28 20:38:03 2023 +0700
+
+    Merge pull request #11 from nguyenlehuuduy/Dev-Duy
+    
+    Duy update 28-11-2023
+
+[33mcommit 7f4e7f21d8aa99b9c240bba942c702c0d8a75e5d[m
+Author: Nguyễn Lê Hữu Duy <nguyenlehuuduy.tienphuoc@gmail.com>
+Date:   Tue Nov 28 20:36:14 2023 +0700
+
+    Duy update 28-11-2023
+
+[33mcommit e8f37923ad5fc51348d028e70e18ed4564b36f43[m
+Author: Quocdung <dungttq.21it@vku.udn.vn>
+Date:   Tue Nov 28 15:03:24 2023 +0700
+
+    fix finish the logic game of my challenge
+
+[33mcommit f3b7a321a737b3be3941461144ff5527387c54bc[m
+Merge: 10f775f bc23a50
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Tue Nov 28 14:21:26 2023 +0700
+
+    Merge branch 'main' of https://github.com/nguyenlehuuduy/Game_Vietnamese
+
+[33mcommit bc23a50581b3cd1810e7474d664ef801d7957496[m
+Merge: 86ab097 a86e5eb
+Author: Nguyễn Lê Hữu Duy <79910782+nguyenlehuuduy@users.noreply.github.com>
+Date:   Tue Nov 28 21:12:18 2023 +0700
+
+    Merge pull request #12 from nguyenlehuuduy/Dev-Duy
+    
+    update report
+
+[33mcommit a86e5eb2b1e447a4adc34fe2c83195337fe3a68d[m[33m ([m[1;31morigin/Dev-Duy[m[33m)[m
+Author: Nguyễn Lê Hữu Duy <nguyenlehuuduy.tienphuoc@gmail.com>
+Date:   Tue Nov 28 21:03:42 2023 +0700
+
+    update report
+
+[33mcommit 10f775fe2834e8cce86f2b8ef1298023cf8dd464[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Tue Nov 28 14:21:20 2023 +0700
+
+    add
+
+[33mcommit 88cbdfbd4b24e4c2495b73760e2d2d66a916cb87[m
+Merge: 0bc4796 e8f3792
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Tue Nov 28 13:43:32 2023 +0700
+
+    add
+
+[33mcommit 0bc47963b0390cfe8bf135df536f509675b6515a[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Tue Nov 28 12:23:32 2023 +0700
+
+    add bot part UI
+
+[33mcommit 70b236a3ab7175abf7c27b9c1ff74571e911bb3e[m
+Merge: ca9904a 258ebda
+Author: Quocdung <dungttq.21it@vku.udn.vn>
+Date:   Mon Nov 27 20:02:29 2023 +0700
+
+    Merge branch 'main' into dung
+
+[33mcommit 4b254c0a952dd375898dde10cc359a225662a7a5[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Mon Nov 27 19:25:45 2023 +0700
+
+    add user to scripttabel
+
+[33mcommit 258ebdaecd86eb612621b11734b4b379ee8e90b5[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Thu Nov 23 21:16:18 2023 +0700
+
+    add scripttabelObject
+
+[33mcommit ff417d8ae1c2ecbe4d1b62f3921c6b0dfb778f6e[m
+Merge: 2c93de5 5d7f416
+Author: Nguyễn Lê Hữu Duy <79910782+nguyenlehuuduy@users.noreply.github.com>
+Date:   Wed Nov 22 23:24:25 2023 +0700
+
+    Merge pull request #10 from nguyenlehuuduy/Dev-Duy
+    
+    Duy push login - report - menu from Duy
+
+[33mcommit 5d7f4161117185f8807c97177d22420f63726f12[m
+Author: Nguyễn Lê Hữu Duy <nguyenlehuuduy.tienphuoc@gmail.com>
+Date:   Wed Nov 22 23:20:53 2023 +0700
+
+    Duy push login - report - menu from Duy
+
+[33mcommit ca9904acc296758d1c5841a4811ba4cf4971e2f5[m
+Author: Quocdung <dungttq.21it@vku.udn.vn>
+Date:   Wed Nov 22 21:12:58 2023 +0700
+
+    fix logic
+
+[33mcommit 1ca1bc032462c101d09f050d114c22937ef60761[m
+Merge: 166b5da 2c93de5
+Author: TonThatRon <tonr84295@gmail.com>
+Date:   Wed Nov 22 20:36:11 2023 +0700
+
+    Merge branch 'main' into ron
+
+[33mcommit 2c93de54ca359bb49e770f87c72e1f8ecc2840b7[m
+Merge: 250155c 0b55005
+Author: Nguyễn Đức Bảo <nguyenducbao166@gmail.com>
+Date:   Wed Nov 22 19:58:59 2023 +0700
+
+    Merge pull request #9 from nguyenlehuuduy/bao
+    
+    add
+
+[33mcommit 0b55005ae8b9696283eb617da022ddd599fa7d0f[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Wed Nov 22 19:58:05 2023 +0700
+
+    add
+
+[33mcommit 250155c9200f1b0672f4fb8ba32860d9826c34b0[m
+Merge: 38564a3 070aea0
+Author: Nguyễn Đức Bảo <nguyenducbao166@gmail.com>
+Date:   Wed Nov 22 19:56:48 2023 +0700
+
+    Merge pull request #8 from nguyenlehuuduy/bao
+    
+    add login
+
+[33mcommit 070aea029cd54c28b82cd1a4be68f9616773809a[m
+Author: gechym <nguyenducbao166@gmail.com>
+Date:   Sun Nov 19 20:43:30 2023 +0700
+
+    add login
+
+[33mcommit 38564a3c7e093ddd2fe71ef8dc14db8a0753320c[m
+Merge: cca8ce0 fabc441
+Author: Nguyễn Lê Hữu Duy <79910782+nguyenlehuuduy@users.noreply.github.com>
+Date:   Thu Nov 16 21:16:40 2023 +0700
+
+    Merge pull request #7 from nguyenlehuuduy/Dev_Duy
+    
+    Dev duy
+
+[33mcommit fabc441b1140cd58347ea1e0bfcf9f36acba2000[m
+Author: Nguyễn Lê Hữu Duy <nguy

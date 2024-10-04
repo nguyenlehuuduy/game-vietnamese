@@ -1,0 +1,141 @@
+[
+  {
+    "questionId": 1,
+    "topicId": {
+      "idTopic": 1,
+      "idLevelSubject": 1,
+      "nameSubject": 1,
+      "idRound": 1
+    },
+    "type": {
+      "typeId": 3,
+      "typeName": "Trắc nghiệm"
+    },
+    "content": {
+      "des": "Bác Hồ sinh ... 1890 ?",
+      "imagePath": ""
+    },
+    "answer": "năm",
+    "options": [
+      "năm",
+      "ngày",
+      "tại",
+      "tháng"
+    ]
+  },
+  {
+    "questionId": 123,
+    "topicId": {
+      "idTopic": 1,
+      "idLevelSubject": 1,
+      "nameSubject": 1,
+      "idRound": 1
+    },
+    "type": {
+      "typeId": 2,
+      "typeName": "Chọn từ tương ứng với ảnh"
+    },
+    "content": {
+      "des": "Chọn đáp án tương ứng với các bức ảnh sau ?",
+      "images": [
+        "Image/Challenge_game/Challenge_image_and_multichoice/bird",
+        "Image/Challenge_game/Challenge_image_and_multichoice/dammay",
+        "Image/Challenge_game/Challenge_image_and_multichoice/canh"
+      ]
+    },
+    "answer": "Con chim|Đám mây|Đôi Cánh",
+    "options": [
+      "Con chim",
+      "Đôi cánh",
+      "Đám mây"
+    ]
+  },
+  {
+    "questionId": 3,
+    "topicId": {
+      "idTopic": 1,
+      "idLevelSubject": 1,
+      "nameSubject": 1,
+      "idRound": 1
+    },
+    "type": {
+      "typeId": 4,
+      "typeName": "Điền từ"
+    },
+    "content": {
+      "des": "Ghép các chữ cái thành từ đúng ",
+      "images": [
+        "Image/Challenge_game/QuizGame/conmeo"
+      ]
+    },
+    "answer": "conmèo",
+    "options": []
+  },
+  {        
+      "questionId" : 1,
+      "topicId" : {
+        "idTopic": 1, 
+        "idLevelSubject" : 1, 
+        "nameSubject": 1, 
+        "idRound": 1
+      },
+      "type" : {
+          "typeId" : 1,
+          "typeName" : "Kéo thả đúng với mô tả"
+      },
+      "content": {
+        "des" : "Kéo các từ đồng nghĩa với nhau vào ô trống",
+        "imagePath" : ""
+      },
+      "answer" : "vắng vẻ,hiu quạnh,vắng tanh|hi sinh,chết,tử vong|cái ca,cái ly,cái cốc|vui vẻ,tươi vui,vui nhộn",
+      "options" : ["Vắng vẻ" ,"Hiu quạnh"  ,"Hi sinh" ,"Cái ca" , "Chết" , "Tử vong" , "Vắng tanh" , "Vui vẻ" , "Tươi vui" , "cái ly" , "vui nhộn" , "cái cốc" ]
+  },
+  {
+    "questionId": 1,
+    "topicId": {
+      "idTopic": 1,
+      "idLevelSubject": 1,
+      "nameSubject": 1,
+      "idRound": 1
+    },
+    "type": {
+      "typeId": 3,
+      "typeName": "Trắc nghiệm"
+    },
+    "content": {
+      "des": "'Thành phố' đồng nghĩa với từ nào sau đây ?",
+      "imagePath": ""
+    },
+    "answer": "Thành thị",
+    "options": [
+      "Thị trấn",
+      "Nông thôn",
+      "Thành thị",
+      "Thành viên"
+    ]
+  },
+  {
+    "questionId": 1,
+    "topicId": {
+      "idTopic": 1,
+      "idLevelSubject": 1,
+      "nameSubject": 1,
+      "idRound": 1
+    },
+    "type": {
+      "typeId": 3,
+      "typeName": "Trắc nghiệm"
+    },
+    "content": {
+      "des": "Cặp từ nào dưới đây không trái nghĩa với nhau ?",
+      "imagePath": ""
+    },
+    "answer": "Bay - nhảy",
+    "options": [
+      "Trẻ - già",
+      "Sáng - tối",
+      "Sang - hèn",
+      "Bay - nhảy"
+    ]
+  }
+]

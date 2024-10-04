@@ -1,0 +1,23 @@
+{
+  "question": [
+    {
+      "questionId": 1,
+      "topicId": {
+        "idTopic": 1,
+        "idLevelSubject": 1,
+        "nameSubject": "Đà nẵng",
+        "idRound": 1
+      },
+      "type": {
+        "typeId": 3,
+        "typeName": "Điền từ"
+      },
+      "content": {
+        "des": "Chọn thứ tự đúng của các từ",
+        "imagePath": ["Art/Animals/chicken.png"]
+      },
+      "answer": "congà",
+      "options": []
+    }
+  ]
+}

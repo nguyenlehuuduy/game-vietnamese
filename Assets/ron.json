@@ -1,0 +1,21 @@
+[
+  {
+    "questionId": 3,
+    "topicId": {
+      "idTopic": 1,
+      "idLevelSubject": 1,
+      "nameSubject": 1,
+      "idRound": 1
+    },
+    "type": {
+      "typeId": 4,
+      "typeName": "Điền từ"
+    },
+    "content": {
+      "des": "Ghép các chữ cái thành từ đúng ",
+      "images": ["Image/Challenge_game/QuizGame/conmeo"]
+    },
+    "answer": "conmèo",
+    "options": []
+  }
+]

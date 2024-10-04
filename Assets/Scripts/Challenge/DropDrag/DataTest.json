@@ -1,0 +1,25 @@
+{
+  "question" : [
+    {        
+      "questionId" : 1,
+      "topicId" : {
+        "idTopic": 1, 
+        "idLevelSubject" : 1, 
+        "nameSubject": 1, 
+        "idRound": 1
+      },
+      "type" : {
+          "typeId" : 1,
+          "typeName" : "Trắc nghiệm"
+      },
+      "content": {
+        "des" : "Kéo các từ đồng nghĩa với nhau vào ô trống",
+        "imagePath" : ""
+      },
+      "answer" : "vắng vẻ,hui quạnh,vắng tánh|hi sinh,chết,tử vong|cái ca,cái ly,cái cốc|vui vẻ,tươi vui,vui nhộn",
+      "options" : ["Vắng vẻ" ,"Hui quạnh"  ,"Hi sinh" ,"Cái ca" , "Chết" , "Tử vong" , "Vắng tánh" , "Vui vẻ" , "Tươi vui" , "cái ly" , "vui nhộn" , "cái cốc" ]
+    }
+  ]
+}
+
+
